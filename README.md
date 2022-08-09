@@ -1,6 +1,6 @@
 # Recomendador de músicas usando K-Means
 
-Esse repositório foi feito para armazenar todos os arquivos e notebooks do curso [**Clustering aplicado: Recomendando músicas com K-Means**]() da Alura. 
+Esse repositório foi feito para armazenar todos os arquivos e notebooks do curso [**Clustering aplicado: Recomendando músicas com K-Means**](https://cursos.alura.com.br/course/clustering-aplicado-recomendando-musicas-k-means) da Alura. 
 
 ## Dicionário dos dados extraídos da API do Spotify
 
