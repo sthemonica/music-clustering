@@ -2,6 +2,8 @@
 
 Esse repositório foi feito para armazenar todos os arquivos e notebooks do curso [**Clustering aplicado: Recomendando músicas com K-Means**](https://cursos.alura.com.br/course/clustering-aplicado-recomendando-musicas-k-means) da Alura. 
 
+Para o desenvolvimento do curso você vai usar os dados pré-tratados que estão na pasta [Dados](https://github.com/sthemonica/music-clustering/tree/main/Dados).
+
 ## Dicionário dos dados extraídos da API do Spotify
 
 * `Acousticness/Acústica:` Variável numérica, medida de confiança de 0,0 a 1,0 se a faixa é acústica. 1.0 representa alta confiança de que a faixa é acústica.
